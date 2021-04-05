@@ -47,3 +47,7 @@ CV2 library will be utilized for storing of images in the form of numbers in arr
 
 #### Step-11(iii): Develop the save button in the main window of the application.
 The steps-11(i)(ii)(iii) will be made with the aid of TKINTER library.
+
+### Limitations
+1. Selct the image with good quality
+2. Select the image with light colored background.
