@@ -19,3 +19,30 @@ The goal of this project is to transform an image into a cartoon. Building a pyt
 - OS - Imported for the OS interaction. The main purpose of this library is to read the path and save the selected images to that path. [OS](https://docs.python.org/3/library/os.html)
 - TKINTER - It is an GUI toolkit. It is imported for generation of GUI(Graphical User Interface). [TKINTER](https://docs.python.org/3/library/tkinter.html) [Wikipedia](https://en.wikipedia.org/wiki/Tkinter)
 - PIL - The full form of PIL is "Python Image Library". It is a free open source additional library for python programming language that adds support for opening, Manipulating and Saving various image file formats. [Wikipedia](https://en.wikipedia.org/wiki/Python_Imaging_Library) [pillow](https://pypi.org/project/Pillow/)
+
+#### Step-2: Generation of a file box to select an interesting file
+Building the main window fo the developing application will be done through this step. this window or this step includes buttons, labels, and images. Title can be genaerted by utilizing title().
+
+#### Step-3: Storing of an image using CV2 library
+CV2 library will be utilized for storing of images in the form of numbers in arrays format. It will help us to perform operations as per our necessities.
+
+#### Step-4: Transform the input image into grayscale image
+
+#### Step-5: Smoothening the transformed grayscale image
+
+#### Step-6: The edges of the image to be retrieved
+
+#### Step-7: Image Mask is to be generated
+
+#### Step-8: Generating the Cartoon Effect on the image
+
+#### Step-9: All the transitions will be plotted.
+
+#### Step-10: User can save the cartoon generated using save button
+
+#### Step-11(i): Develop the main window for the application
+
+#### Step-11(ii): Develop the Cartoonifier button in the main window of the application
+
+#### Step-11(iii): Develop the save button in the main window of the application.
+The steps-11(i)(ii)(iii) will be made with the aid of TKINTER library.
